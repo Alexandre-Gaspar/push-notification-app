@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "150832086865",
+    "project_id": "fir-pushnotification-bde85",
+    "storage_bucket": "fir-pushnotification-bde85.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150832086865:android:a2f74caa18673489361d70",
+        "android_client_info": {
+          "package_name": "com.testpushnotificationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9wNm3T3THCJgZjZibdFDif9HUqgTPK0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
